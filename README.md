@@ -1,4 +1,4 @@
-# ADHD Timer Tauri Windows Widget
+# ADHD Time Tracker
 
 A Windows always-on-top widget built with Tauri.
 
